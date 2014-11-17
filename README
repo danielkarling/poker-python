@@ -1,4 +1,9 @@
 JOGO DE POKER INICIAL.
 
+git pull -u origin master    --para puxar arquivo do professor
+git pull -u upstream master  --para puxar arquivo de danielkarling
+git push -u upstream master  --para jogar arquivo na rede
+
+
 
 blblajanskjanksnaks
